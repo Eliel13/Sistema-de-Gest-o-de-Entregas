@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Sistema de Gestão de Entregas",
+  "description": "Um painel de controle para gerenciar entregas, entregadores e produtos. Permite a criação de pedidos, atribuição de entregas, acompanhamento de progresso e visualização de relatórios de desempenho.",
+  "requestFramePermissions": []
+}
